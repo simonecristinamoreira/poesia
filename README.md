@@ -24,8 +24,8 @@ O objetivo é criar um ambiente simples e bonito, onde cada poesia possa ser lid
 
 ## 🌍 Acesse o Site
 
-👉 [Link para o site publicado](https://simonecristinamoreira.github.io/poesias)  
-*(Substitua com o link do GitHub Pages ou outro provedor que usar.)*
+👉 [Link para o site publicado](https://simonecristinamoreira.github.io/poesia)  
+
 
 ---
 
